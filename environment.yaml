@@ -1,0 +1,13 @@
+name: mlflow-workshop
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pyyaml
+  - pytorch
+  - torchvision
+  - matplotlib
+  - scipy
+  - future
+  - pip
