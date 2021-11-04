@@ -49,3 +49,14 @@ Additional Issues
 - API first approach: one can submit runs, log models, metics, etc.
 - models are inspired by "lambda functions" that can be deployed in many environments
 - open-source, open interface, and modular so indidivual components of MLflow can work independently, as well as together.
+
+
+### MLflow Tracking
+
+- Can be used 
+
+
+## Running
+
+Run `mlflow ui`
+

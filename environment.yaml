@@ -1,3 +1,7 @@
+##
+## Conda Environment
+##
+
 name: mlflow-workshop
 channels:
   - conda-forge
