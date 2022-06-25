@@ -9,4 +9,4 @@ The workshop covers end-to-end Machine Learning workflows using MLflow's compone
 
 ## References
 
-[1] Databricks (2020). (Managing the Complete Machine Learning Lifecycle with MLflow)[https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjDg318nmSxRqTgZFWQ2ZC]
+[1] [Databricks (2020). Managing the Complete Machine Learning Lifecycle with MLflow](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjDg318nmSxRqTgZFWQ2ZC)
